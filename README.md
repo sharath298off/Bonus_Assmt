@@ -1,7 +1,7 @@
 **Course**: CS5720 Neural Networks and Deep Learning  
 **University**: University of Central Missouri  
-**Student Name**: Naidu Gudivada
-**Student ID**: 700773264
+**Student Name**: sharath chandra seriyala
+**Student ID**: 700776646
 ---------------------------------------------------------------------------------------------------------
 
 ## 📌 Overview
